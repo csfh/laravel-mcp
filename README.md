@@ -22,13 +22,13 @@ Documentation for Laravel MCP can be found on the [Laravel website](https://lara
 
 Thank you for considering contributing to Laravel MCP! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
 
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
 ## Security Vulnerabilities
 
 Please review [our security policy](https://github.com/laravel/mcp/security/policy) on how to report security vulnerabilities.
+
+## Community
+
+Use common sense and decency. There is no formal code of conduct. We reserve the right to moderate this community to the extent of the law and the policy of the host. Write community@modoterra.xyz if you need us.
 
 ## License
 
